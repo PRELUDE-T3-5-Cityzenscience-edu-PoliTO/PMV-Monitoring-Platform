@@ -1,6 +1,8 @@
 # Thermal Comfort Monitoring-Platform
 ![](http://www.politocomunica.polito.it/var/politocomunica/storage/images/media/images/marchio_logotipo_politecnico/1371-1-ita-IT/marchio_logotipo_politecnico_large.jpg) 
 
+> **This project is part of the PRELUDE project Citizenscience and education activities (T9.5)**
+
 > **Master course in ICT FOR SMART SOCIETIES**
 
 > **Interdisciplinary projects 2020-2021**
