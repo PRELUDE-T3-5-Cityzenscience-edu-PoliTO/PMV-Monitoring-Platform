@@ -31,15 +31,10 @@ The source code for the Android Application:
 
 > https://github.com/AndreaAvignone/myComfort
 
+**short overview**
 ## Architecture overview
 
-The following picture represents the project architecture. The system was designed to take into account all the distinct aspects to provide a stand-alone platform. Measurements are retrieved from the hardware platform and then processed by the back-end. The final goal was to provide to users an objective thermal comfort indicator (based on mathematical models) for supporting the knowledge related to environmental conditions. Moreover, the system includes the possibility to retrieve additional information from external API (e.g. weather information).
-
-
-<p align="center">
-  <img src="https://github.com/AndreaAvignone/PMV-Monitoring-Platform/blob/main/pictures/software_layers.png" width="300">
-  </p>
-
+The system was designed to take into account all the distinct aspects to provide a stand-alone platform. Measurements are retrieved from the hardware platform and then processed by the back-end. The final goal was to provide to users an objective thermal comfort indicator (based on mathematical models) for supporting the knowledge related to environmental conditions. Moreover, the system includes the possibility to retrieve additional information from external API (e.g. weather information).
 
 ## Getting Started
 
@@ -119,6 +114,6 @@ Instructions for the hardware platform:
 >https://github.com/AndreaAvignone/Monitoring-Platform-kit
 
 ## License
-[GPL-3.0](./LICENSE)
+[GPL-3.0](./LICENSE)  for any usages, quote the mentioned publication and this repository.
 
 
