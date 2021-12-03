@@ -28,7 +28,7 @@ The repostiory for setup a new platform is retrievable here:
 
 The source code for the Android Application:
 
-> https://github.com/AndreaAvignone/myComfort
+> https://github.com/PRELUDE-T3-5-Cityzenscience-edu-PoliTO/myComfort
 
 **short overview**
 ## Architecture overview
