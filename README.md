@@ -11,7 +11,9 @@
 
 Note: For information on the EU H2020 PRELUDE please visit the project site: https://prelude-project.eu/ - PRELUDE received funding from the European Union's Horizon 2020 research and innovation programme under Grant Agreement N. 958345
 
+#
 **Thermal Comfort Monitoring-Platform**
+
 The software is composed of three main parts:
 - Back-end
 - Platform and sensor network
