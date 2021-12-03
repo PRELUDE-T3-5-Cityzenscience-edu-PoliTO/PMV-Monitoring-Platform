@@ -1,7 +1,6 @@
 # Thermal Comfort Monitoring-Platform
 ![](https://www.politocomunica.polito.it/var/politocomunica/storage/images/media/images/marchio_e_logotipo_politecnico_di_torino/55127-3-ita-IT/marchio_e_logotipo_politecnico_di_torino_full.png) 
 
-This repository is part of the PAPER...
 
 > **This project is part of the PRELUDE project Citizenscience and education activities (T9.5-PoliTO) - see note**
 
@@ -25,7 +24,7 @@ The software is composed of three main parts:
 
 The repostiory for setup a new platform is retrievable here:
 
-> https://github.com/AndreaAvignone/Monitoring-Platform-kit
+> https://github.com/PRELUDE-T3-5-Cityzenscience-edu-PoliTO/Monitoring-Platform-kit
 
 The source code for the Android Application:
 
