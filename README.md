@@ -1,7 +1,7 @@
 # Thermal Comfort Monitoring-Platform
 ![](https://www.politocomunica.polito.it/var/politocomunica/storage/images/media/images/marchio_e_logotipo_politecnico_di_torino/55127-3-ita-IT/marchio_e_logotipo_politecnico_di_torino_full.png) 
 
-> **This project is part of the PRELUDE project Citizenscience and education activities (T9.5-PoliTO)**
+> **This project is part of the PRELUDE project Citizenscience and education activities (T9.5-PoliTO) - see note**
 
 > **Master course in ICT FOR SMART SOCIETIES**
 
@@ -9,8 +9,9 @@
 
 *Considering the high price solutions for indoor thermal comfort monitoring, this project proposes a low-cost IoT sensor network (exploiting Raspberry Pi and Arduino platforms) for collecting real-time data and evaluating specific thermal comfort indicators (PMV and PPD). The overall architecture was accordingly designed, implementing the hardware setup, the back-end and the Android user interface. Eventually, three distinct platforms were deployed for testing the general system and analyzing the obtained results in different places and seasons, based on collected data and users’ preferences.*
 
-For information on the EU H2020 PRELUDE please visit the project site: https://prelude-project.eu/ - PRELUDE received funding from the European Union's Horizon 2020 research and innovation programme under Grant Agreement N. 958345
+Note: For information on the EU H2020 PRELUDE please visit the project site: https://prelude-project.eu/ - PRELUDE received funding from the European Union's Horizon 2020 research and innovation programme under Grant Agreement N. 958345
 
+# Thermal Comfort Monitoring-Platform
 The software is composed of three main parts:
 - Back-end
 - Platform and sensor network
