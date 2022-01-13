@@ -11,6 +11,7 @@
 *Considering the high price solutions for indoor thermal comfort monitoring, this project proposes a low-cost IoT sensor network (exploiting Raspberry Pi and Arduino platforms) for collecting real-time data and evaluating specific thermal comfort indicators (PMV and PPD). The overall architecture was accordingly designed, implementing the hardware setup, the back-end and the Android user interface. Eventually, three distinct platforms were deployed for testing the general system and analyzing the obtained results in different places and seasons, based on collected data and users’ preferences.*
 
 **Description and extra-contents are available at: https://www.mdpi.com/1996-1073/15/2/564/htm.**
+**Chiesa, G.; Avignone, A.; Carluccio, T. A Low-Cost Monitoring Platform and Visual Interface to Analyse Thermal Comfort in Smart Building Applications Using a Citizen–Scientist Strategy. Energies 2022, 15, 564. https://doi.org/10.3390/en15020564**
 
 Note: For information on the EU H2020 PRELUDE please visit the project site: https://prelude-project.eu/ - PRELUDE received funding from the European Union's Horizon 2020 research and innovation programme under Grant Agreement N. 958345
 
@@ -110,6 +111,6 @@ Instructions for the hardware platform:
 >https://github.com/PRELUDE-T3-5-Cityzenscience-edu-PoliTO/Monitoring-Platform-kit
 
 ## License
-[GPL-3.0](./LICENSE)  for any usages, quote the mentioned publication and this repository.
+[GPL-3.0](./LICENSE)  for any usages, quote the mentioned publication (https://doi.org/10.3390/en15020564) and this repository.
 
 
